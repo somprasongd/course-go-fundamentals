@@ -1,0 +1,236 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "01-getting-start/01-1-hello-world"
+		},
+		{
+			"path": "01-getting-start/01-2-template"
+		},
+		{
+			"path": "01-getting-start/01-3-package"
+		},
+		{
+			"path": "02-go-basic/02-1-var"
+		},
+		{
+			"path": "02-go-basic/02-2-var-type-interface"
+		},
+		{
+			"path": "02-go-basic/02-3-var-short-declaration"
+		},
+		{
+			"path": "02-go-basic/02-4-const"
+		},
+		{
+			"path": "02-go-basic/02-5-package-scope"
+		},
+		{
+			"path": "02-go-basic/02-6-function-scope"
+		},
+		{
+			"path": "02-go-basic/02-7-block-scope"
+		},
+		{
+			"path": "02-go-basic/02-8-block-scope-short-declaration"
+		},
+		{
+			"path": "02-go-basic/02-9-function"
+		},
+		{
+			"path": "02-go-basic/02-10-if-else"
+		},
+		{
+			"path": "02-go-basic/02-11-switch"
+		},
+		{
+			"path": "02-go-basic/02-12-loop"
+		},
+		{
+			"path": "02-go-basic/02-13-defer"
+		},
+		{
+			"path": "02-go-basic/02-14-defer-lifo"
+		},
+		{
+			"path": "02-go-basic/02-15-defer-close-file"
+		},
+		{
+			"path": "03-go-type/03-1-basic-types"
+		},
+		{
+			"path": "03-go-type/03-2-type-conversions"
+		},
+		{
+			"path": "03-go-type/03-3-string"
+		},
+		{
+			"path": "03-go-type/03-4-string-len"
+		},
+		{
+			"path": "03-go-type/03-5-string-loop"
+		},
+		{
+			"path": "03-go-type/03-6-string-strings"
+		},
+		{
+			"path": "03-go-type/03-7-string-strconv"
+		},
+		{
+			"path": "03-go-type/03-8-pointer"
+		},
+		{
+			"path": "03-go-type/03-9-pointer-passing"
+		},
+		{
+			"path": "03-go-type/03-10-array"
+		},
+		{
+			"path": "03-go-type/03-11-slice"
+		},
+		{
+			"path": "03-go-type/03-12-map"
+		},
+		{
+			"path": "03-go-type/03-13-struct"
+		},
+		{
+			"path": "03-go-type/03-14-struct-method"
+		},
+		{
+			"path": "03-go-type/03-15-struct-method-receiver"
+		},
+		{
+			"path": "03-go-type/03-16-struct-embedding"
+		},
+		{
+			"path": "04-interface/04-1-empty-interface"
+		},
+		{
+			"path": "04-interface/04-2-interface-with-method"
+		},
+		{
+			"path": "04-interface/04-3-type-assertion"
+		},
+		{
+			"path": "05-generic/05-1-interface"
+		},
+		{
+			"path": "05-generic/05-2-generic-function"
+		},
+		{
+			"path": "05-generic/05-3-type-constraint"
+		},
+		{
+			"path": "05-generic/05-4-generic-type"
+		},
+		{
+			"path": "06-concurrency/06-1-goroutine"
+		},
+		{
+			"path": "06-concurrency/06-2-waitgroup"
+		},
+		{
+			"path": "06-concurrency/06-3-channel"
+		},
+		{
+			"path": "06-concurrency/06-4-buffered-channel"
+		},
+		{
+			"path": "06-concurrency/06-5-race-condition"
+		},
+		{
+			"path": "06-concurrency/06-6-mutex"
+		},
+		{
+			"path": "06-concurrency/06-7-select-statement"
+		},
+		{
+			"path": "07-error/07-1-error"
+		},
+		{
+			"path": "07-error/07-2-new-error"
+		},
+		{
+			"path": "07-error/07-3-new-error-fmt"
+		},
+		{
+			"path": "07-error/07-3-new-error-struct"
+		},
+		{
+			"path": "07-error/07-4-panic"
+		},
+		{
+			"path": "07-error/07-5-panic-no-recover"
+		},
+		{
+			"path": "07-error/07-6-panic-with-recover"
+		},
+		{
+			"path": "08-unit-test/08-1-unit-test"
+		},
+		{
+			"path": "08-unit-test/08-2-table-driven"
+		},
+		{
+			"path": "09-advanced-func/09-1-variadic"
+		},
+		{
+			"path": "09-advanced-func/09-2-first-class-func"
+		},
+		{
+			"path": "09-advanced-func/09-3-higher-order-func"
+		},
+		{
+			"path": "09-advanced-func/09-4-closure"
+		},
+		{
+			"path": "10-context/10-1-timeout"
+		},
+		{
+			"path": "10-context/10-2-deadline"
+		},
+		{
+			"path": "10-context/10-3-cancellation"
+		},
+		{
+			"path": "10-context/10-4-pass-value"
+		},
+		{
+			"path": "11-json/11-1-marshal"
+		},
+		{
+			"path": "11-json/11-2-unmarshal"
+		},
+		{
+			"path": "11-json/11-3-json-tag"
+		},
+		{
+			"path": "12-design-pattern/12-1-factory"
+		},
+		{
+			"path": "12-design-pattern/12-2-functional-options"
+		},
+		{
+			"path": "12-design-pattern/12-3-repository"
+		},
+		{
+			"path": "12-design-pattern/12-4-singleton"
+		},
+		{
+			"path": "12-design-pattern/12-5-builder"
+		},
+		{
+			"path": "12-design-pattern/12-6-adapter"
+		},
+		{
+			"path": "12-design-pattern/12-7-decorator"
+		},
+		{
+			"path": "12-design-pattern/12-8-worker-pool"
+		}
+	],
+	"settings": {}
+}
